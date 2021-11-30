@@ -1,8 +1,24 @@
 
-body{
+body {
     background-color:rgb(253, 251, 251);
 }
 
-#cabeçalho{
-    top: 0
+#cabeçalho {
+    top: 0;
 }
+#titulo{
+    font-family:fantasy;
+    
+}
+#licoes_a_aprendidas{
+    font-family:montserrat;
+}
+
+#licoes_aprendidas{
+    font-family: cursive;
+}
+#artigo{
+    font-style: normal;
+    font-size: 
+
+}width:20%;
