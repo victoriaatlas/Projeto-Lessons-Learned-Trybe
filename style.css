@@ -3,8 +3,9 @@ body {
     background-color:rgb(253, 251, 251);
 }
 
-#cabeçalho {
+#cabecalho {
     top: 0;
+    position:fixed;
 }
 #titulo{
     font-family:fantasy;
@@ -19,6 +20,6 @@ body {
 }
 #artigo{
     font-style: normal;
-    font-size: 
+    
 
-}width:20%;
+}
